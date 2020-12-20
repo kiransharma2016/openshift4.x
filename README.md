@@ -1,5 +1,6 @@
 # openshift4.x
-this contains info and resources for openshift 4
+This contains info and resources for redhat openshift 4.x intallaton, configuraiotn and day2 operations. 
+
 
 Deleting a project https://access.redhat.com/solutions/4165791
 
