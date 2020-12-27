@@ -13,3 +13,6 @@ https://docs.kasten.io/latest/kanister/etcd/ocp/install.html?utm_term=&utm_campa
 
 openshift tips
 https://openshift.tips/secrets/#
+
+
+https://openshift.tips/cluster/
