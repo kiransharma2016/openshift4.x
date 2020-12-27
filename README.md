@@ -9,3 +9,7 @@ https://www.openshift.com/blog/deploying-your-storage-backend-using-openshift-co
 
 ETCD backup
 https://docs.kasten.io/latest/kanister/etcd/ocp/install.html?utm_term=&utm_campaign=Dynamic+-+ALL&utm_source=adwords&utm_medium=ppc&hsa_acc=3144319558&hsa_cam=10779480222&hsa_grp=114267168477&hsa_ad=483794660635&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA25v_BRBNEiwAZb4-ZRMkrVkWcmMI5hBuwtrc9aMcKLU_LRSBuejyLYIWFNqsd3dxOTFbKBoCrqAQAvD_BwE
+
+
+openshift tips
+https://openshift.tips/secrets/#
