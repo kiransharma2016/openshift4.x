@@ -16,3 +16,7 @@ https://openshift.tips/secrets/#
 
 
 https://openshift.tips/cluster/
+
+
+creating dns/f5 entry 
+https://github.com/sa-ne/openshift4-vmware-upi/blob/master/roles/ipa/tasks/main.yaml
